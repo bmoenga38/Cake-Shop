@@ -1,0 +1,17 @@
+INDEX VERSION 1.134+C:\Users\brycode\Desktop\E-Shop\.metadata\.plugins\org.eclipse.jdt.core
+3377341230.index
+783465952.index
+75661996.index
+2979283954.index
+1826624526.index
+2837178185.index
+521371801.index
+698360245.index
+3938545319.index
+574605338.index
+1865797976.index
+1137160195.index
+1952448158.index
+2323978185.index
+2770331636.index
+1064533241.index

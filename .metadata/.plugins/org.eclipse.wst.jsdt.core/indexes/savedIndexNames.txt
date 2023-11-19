@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+C:\Users\brycode\Desktop\E-Shop\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+579404460.index
+1185567417.index
+0.index
+758431913.index
+1049038417.index
+4037351323.index
+3804596115.index
